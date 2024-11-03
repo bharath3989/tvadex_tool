@@ -92,7 +92,6 @@ try:
         df=adex_afterdrop, channel_name=channel_select, region=region_select, time=month_select)
     st.dataframe(custom_exclusive_df_region_time)
 
-
 except:
     if NameError:
         pass
