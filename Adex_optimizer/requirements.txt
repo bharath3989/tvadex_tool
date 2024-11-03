@@ -1,3 +1,4 @@
+openpyxl
 Streamlit
 regex
 pandas
