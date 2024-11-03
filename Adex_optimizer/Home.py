@@ -22,7 +22,7 @@ st.markdown('''
 }
 </style>
 
-<span class="big-font">Fully automated Television Adex analysis tool with complete Python pandas library at the back end.</span>
+<span class="big-font">Fully automated Television Adex analysis tool.</span>
 ''', unsafe_allow_html=True)
 st.markdown('---')
 
