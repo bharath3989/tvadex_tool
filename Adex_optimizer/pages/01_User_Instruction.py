@@ -6,7 +6,7 @@ import time
 st.set_page_config(page_title="User Instructions",
                    page_icon="image.png", layout="wide")
 
-with open("/Users/bharathviswanathan/Desktop/Adex_optimizer/style.css") as f:
+with open("Adex_optimizer/style.css") as f:
     st.markdown(f"<style> {f.read()} </style>", unsafe_allow_html=True)
 
 
