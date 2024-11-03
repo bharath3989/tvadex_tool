@@ -1,0 +1,273 @@
+h1,
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section[data-testid="stMain"] {
+
+    background-color: rgba(255, 236, 213, 0.989);
+    border-width: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-top: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stMarkdownContainer"] span.big-font {
+    background-color: rgba(161, 113, 113, 0.631);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: large;
+}
+
+hr {
+    background-color: rgba(161, 113, 113, 0.631);
+}
+
+label[data-testid="stWidgetLabel"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+button[data-testid="stBaseButton-secondary"] {
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+section[data-testid="stFileUploaderDropzone"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stTextInputRootElement"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[role="alert"] {
+    background-color: rgba(252, 240, 225, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    color: black;
+    font-weight: bolder;
+}
+
+div.st-emotion-cache-abycrm.e6zijwc0 {
+    background-color: rgba(255, 236, 213, 0.989);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+}
+
+span[data-baseweb="tag"] {
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+
+}
+
+span.st-be.st-ct.st-cu.st-cv.st-cw.st-af {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9px;
+
+}
+
+div[data-baseweb="select"] div.st-bc.st-bd.st-b4.st-do.st-c0.st-dp.st-dq {
+    background-color: rgba(255, 236, 213, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+    padding: 8px, 8px, 8px, 8px;
+
+}
+
+div.st-emotion-cache-y4bq5x.ewgb6651 {
+    background-color: rgba(252, 240, 225, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+}
+
+div.st-emotion-cache-y4bq5x.ewgb6651 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+    padding: 15px 5px 15px 5px;
+}
+
+div[role="radiogroup"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    padding-left: 6px;
+
+}
+
+div[data-testid="stHorizontalBlock"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+}
+
+div[data-testid="stTextInputRootElement"] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 800;
+}
+
+
+div[data-testid="stHorizontalBlock"] p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 10px 10px 10px 10px;
+}
+
+div[data-baseweb="slider"] {
+    padding: 10px 10px 10px 10px;
+}
+
+div[data-baseweb="slider"]>div[data-testid="stSliderTickBar"] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    font-weight: bolder;
+}
+
+div.dvn-underlay>canvas {
+
+    border-style: double;
+    border-color: rgba(161, 113, 113, 0.631);
+    border-width: thick;
+
+}
+
+section[data-testid="stSidebar"] {
+    background-color: rgba(255, 236, 213, 0.989);
+    border: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+div[data-testid="stSidebarContent"]>div[data-testid="stSidebarHeader"]>div[data-testid="stSidebarCollapseButton"]>button {
+    font-size: 100px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+}
+
+div[data-testid="stSidebarContent"]>div[data-testid="stSidebarHeader"] {
+    font-size: 40px;
+    color: rgba(161, 113, 113, 0.631);
+    font-weight: bolder;
+    border: thick;
+    border-color: rgba(161, 113, 113, 0.631);
+}
+
+header[data-testid="stHeader"] {
+    background-color: rgba(161, 113, 113, 0.631);
+}
+
+
+div.st-emotion-cache-19ee8pt.eczjsme4>button[data-testid="stBaseButton-headerNoPadding"] {
+
+    font-size: 100px;
+    color: black;
+    font-weight: bolder;
+}
+
+a[data-testid="stSidebarNavLink"] {
+    background-color: rgba(161, 113, 113, 0.631);
+    font-weight: bold;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div[data-testid="stNumberInputContainer"] {
+    box-sizing: border-box;
+    display: contents;
+    font-size: 20px;
+    background-color: rgba(255, 236, 213, 0.989);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div[data-testid="stMarkdownContainer"]>p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    color: black;
+}
+
+div[data-baseweb="base-input"]>input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(172 168 160 / 47%);
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: dimgray;
+    box-sizing: content-box;
+}
+
+div.st-emotion-cache-76z9jo.e116k4er2>button {
+    color: rgba(255, 236, 213, 0.989);
+    background-color: rgba(255, 236, 213, 0.989);
+}
+
+div.stNumberInput div[data-baseweb="input"] {
+    background-color: rgb(172 168 160 / 47%);
+}
+
+div.st-bd.st-b4.st-be.st-b9.st-c0.st-c1.st-c2.st-c3.st-bj.st-bk.st-bl.st-bm.st-bn.st-b2.st-bo.st-av.st-ay.st-g5.st-g6.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-bp.st-bq.st-br.st-bs.st-bt.st-bu.st-bv {
+
+    box-shadow: gray;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
+
+
+div[data-testid="stSidebarContent"]>div[data-testid="stSidebarHeader"] {
+    background-color: rgba(161, 113, 113, 0.631);
+
+}
+
+div[data-testid="stSidebarNav"] {
+    padding-top: 20px;
+}
+
+div[data-testid="stSidebarHeader"] {
+    color: black;
+    height: 3.65rem;
+}
+
+div[data-testid="stSidebarHeader"] {
+    padding: calc(1.5rem) 1.5rem 1.5rem;
+}
+
+div.stMarkdown hr {
+    color: brown;
+}
+
+div[data-testid="stSidebarContent"] {
+    border-right-width: thick;
+    border-right-color: brown;
+}
