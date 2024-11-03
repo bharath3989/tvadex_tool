@@ -2,5 +2,3 @@ openpyxl
 Streamlit
 regex
 pandas
-time
-google
